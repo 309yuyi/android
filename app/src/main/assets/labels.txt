@@ -1,0 +1,3 @@
+27K ohm
+3.3k ohm
+51 ohm
